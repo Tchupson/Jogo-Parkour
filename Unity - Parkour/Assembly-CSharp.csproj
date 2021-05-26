@@ -58,6 +58,7 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\MouseLook.cs" />
     <Compile Include="Assets\Scripts\Player.cs" />
+    <Compile Include="Assets\Scripts\CuboMovel.cs" />
     <Compile Include="Assets\Scripts\RigidbodyFPS.cs" />
     <Compile Include="Assets\Scripts\CustomTag.cs" />
     <Compile Include="Assets\Scripts\DetectObs.cs" />
