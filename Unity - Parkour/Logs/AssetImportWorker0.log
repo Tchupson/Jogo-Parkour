@@ -1,0 +1,133 @@
+Using pre-set license
+Built from '2021.1/staging' branch; Version is '2021.1.5f1 (3737af19df53) revision 3618735'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19042.985; Version 2009; 64bit' Language: 'pt' Physical Memory: 8082 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2021.1.5f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+E:/Games/Jogo-Parkour/Unity - Parkour
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+59503
+Successfully changed project path to: E:/Games/Jogo-Parkour/Unity - Parkour
+E:/Games/Jogo-Parkour/Unity - Parkour
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 73.66 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.1.5f1 (3737af19df53)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.1.5f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path E:/Games/Jogo-Parkour/Unity - Parkour/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1050 Ti (ID=0x1c82)
+    Vendor:   NVIDIA
+    VRAM:     4018 MB
+    Driver:   27.21.14.5671
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.1.5f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.1.5f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.1.5f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56324
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.1.5f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.1.5f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.009740 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 62.34 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.657 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001196 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 58.75 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.413 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.64 seconds
+Refreshing native plugins compatible for Editor in 0.67 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2524 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 121.4 MB.
+System memory in use after: 121.6 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 2983.
+Total: 2.971500 ms (FindLiveObjects: 0.312900 ms CreateObjectMapping: 0.246600 ms MarkObjects: 2.293600 ms  DeleteObjects: 0.116800 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Objetoas
+  artifactKey: Guid(06001402d5b0e684b80ef0c4e2fed625) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objetoas using Guid(06001402d5b0e684b80ef0c4e2fed625) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '204da1b76fdd24c986b03486b07e655a') in 2.307453 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.694392 seconds.
+  path: Assets/Objetoas/curva.fbx
+  artifactKey: Guid(08f71b1ed4d51be418056cd50b214f84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objetoas/curva.fbx using Guid(08f71b1ed4d51be418056cd50b214f84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cbd37174490c13a3f45b1bdb66eb79af') in 2.222916 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 19.905197 seconds.
+  path: Assets/Objetoas/curvaencaixe.fbx
+  artifactKey: Guid(f581a94302bbc6644b9bcea17d622114) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objetoas/curvaencaixe.fbx using Guid(f581a94302bbc6644b9bcea17d622114) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '038eca7d28ed3977813372bd779f0026') in 1.094174 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 26.163204 seconds.
+  path: Assets/Objetoas/interseccao.fbx
+  artifactKey: Guid(1a08efe41f413f24aaeae2a8ec7e98fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objetoas/interseccao.fbx using Guid(1a08efe41f413f24aaeae2a8ec7e98fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '552854220a6cd5b91f279d0b58df9848') in 0.983694 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 11.266408 seconds.
+  path: Assets/Objetoas/reta.fbx
+  artifactKey: Guid(5e9aab7d3ffa2f748a40830c70b64889) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objetoas/reta.fbx using Guid(5e9aab7d3ffa2f748a40830c70b64889) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c3f29a1300bb10600a53878489ff968') in 1.668888 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1803.348309 seconds.
+  path: Assets/Objetoas/poste.fbx
+  artifactKey: Guid(591c531c8e7b5414fb91152d7fcf5b3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objetoas/poste.fbx using Guid(591c531c8e7b5414fb91152d7fcf5b3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '285d0161b1a959ff50aeefff40b81612') in 4.494561 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 50.215015 seconds.
+  path: Assets/Objetoas/poste 1.fbx
+  artifactKey: Guid(f4e45ab682749e545ae022401b810a5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objetoas/poste 1.fbx using Guid(f4e45ab682749e545ae022401b810a5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18249aae2f67f78880f6d9a145a10531') in 1.005349 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 63.192227 seconds.
+  path: Assets/Objetoas/poste 2.fbx
+  artifactKey: Guid(30dd4dac030dfff428b09619bd3159ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objetoas/poste 2.fbx using Guid(30dd4dac030dfff428b09619bd3159ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '586e259b21bf19bfee65b46f1d25cfe5') in 2.945487 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 39.023412 seconds.
+  path: Assets/Objetoas/poste de lux.prefab
+  artifactKey: Guid(0836c62c0364a664b981686cb887473a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objetoas/poste de lux.prefab using Guid(0836c62c0364a664b981686cb887473a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '140b539f921e97c36341016111ddea7b') in 0.471853 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 455.345770 seconds.
+  path: Assets/Objetoas/poste de lux 1.prefab
+  artifactKey: Guid(0a3d74fc21459414483ac4fd9c8b5df1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objetoas/poste de lux 1.prefab using Guid(0a3d74fc21459414483ac4fd9c8b5df1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a3c6d411744f581de9e3a76cd6ee9390') in 0.074701 seconds 
